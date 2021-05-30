@@ -1,6 +1,6 @@
 #TWF-task1
 
-tsak details
+tsak details:
 GOAL – Implement a Sign In and Sign Up Flow using Google Firebase Authentication
 
 MUST HAVE FEATURES –
