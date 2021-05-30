@@ -1,0 +1,81 @@
+body
+{
+  margin:0;
+}
+#left
+{
+  width:30%;
+  height:657px;
+  float:left;
+  background:#00ffcc;
+  /* opacity:0.5; */
+}
+#right
+{
+  width:70%;
+  height:657px;
+  float:left;
+  background:#ff8080;
+  /* opacity:0.5; */
+  /* #f2f2f2; */
+}
+.z-axix
+{
+  width:80%;
+  /* background:Yellow; */
+  align:center;
+  height:80%;
+  border: 2px black inset;
+  position:absolute;
+  left:10%;
+  top:10%;
+  display:box;
+  font-weight:bold;
+  line-height:25px;
+}
+.z-axix img
+{
+  height:100px;
+  width:100px;
+  position:relative;
+  padding-top:13%;
+  padding-left:5%;
+}
+.z-axix p
+{
+  position:relative;
+  padding-top:1%;
+  padding-left:5%;
+  /* align:center; */
+}
+.r-form
+{
+    position:absolute;
+    left:40%;
+    top:5%;
+    text-transform:capitalize;
+}
+input[type=text],input[type=number],input[type=password],input[type=url]
+{
+  background: transparent;
+  border:none;
+  border-bottom:1px gray solid;
+  padding-top:5px;
+}
+button
+{
+  background:#00ffcc;
+  hight:5%;
+  width:70%;
+  padding:2%;
+  font-weight:bold;
+}
+a
+{
+  color:black;
+  text-decoration:none;
+}
+a:hover
+{
+  color:blue;
+}
