@@ -4,7 +4,7 @@ tsak details:
 GOAL – Implement a Sign In and Sign Up Flow using Google Firebase Authentication
 
 MUST HAVE FEATURES –
-1. Option screen to choose Sign In or Sign Up
+1. Option screen to choose Sign In or Sign Up(main.php)
 2. Ability to Sign In and Sign Up using Google Firebase Authentication (any 1 login method
 supported by Firebase)
 3. Post first login – capture a user input field e.g. “DOB”; “Place of birth” etc.
